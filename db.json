@@ -1,0 +1,25 @@
+{
+    "service": {
+        "id_123": {
+            "name": "Corte de pelo",
+            "duration": "30m",
+            "price": "10.00 Bs",
+            "availability": [
+                {
+                    "name": "Sucursal Villa Remedios",
+                    "address": "Z. Villa Remedios,Av. Principal #123",
+                    "availability": [
+                        { "date": "2024/05/16 12:30" }
+                    ]
+                },
+                {
+                    "name": "Sucursal Villa lobos",
+                    "address": "Z. Villa lobos, C. Palo Alto #123",
+                    "availability": [
+                        { "date": "2024/05/16 15:30" }
+                    ]
+                }
+            ]
+        }
+    }
+}
