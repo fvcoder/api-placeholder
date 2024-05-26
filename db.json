@@ -2,6 +2,7 @@
     "service": {
         "id_123": {
             "name": "Corte de pelo",
+            "description": "Corte de pelo para mujer, con un 50% de descuento",
             "duration": "30m",
             "price": "10.00 Bs",
             "availability": [
